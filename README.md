@@ -1,2 +1,2 @@
-# swc-slides
-Slides for a Software Carpentry Workshop. 
+# swc-presentation
+A presentation for [Software Carpentry](https://software-carpentry.org/) workshops. 
